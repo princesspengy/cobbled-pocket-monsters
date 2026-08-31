@@ -1,0 +1,11 @@
+/**
+!/.gitignore
+!/.gitattributes
+
+!/mods/
+!/mods/**/*.jar
+!/resourcepacks/
+!/resourcepacks/*
+
+# user-installed mods
+/mods/forgematica-*.jar
